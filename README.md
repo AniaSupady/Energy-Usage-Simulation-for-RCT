@@ -1,6 +1,6 @@
-# Energy-Usage-Simulation-for-RCT:    
+# Energy-Usage-Simulation-for-RCT by Ania Supady:    
 
-link to full colab: https://github.com/AniaSupady/Energy-Usage-Simulation-for-RCT/blob/main/Energy_Usage_Simulation_for_RCT.ipynb
+Ania Supady's Google Colab: https://github.com/AniaSupady/Energy-Usage-Simulation-for-RCT/blob/main/Energy_Usage_Simulation_for_RCT.ipynb
 
 
 **Analyzing Demand Response Programs Using Randomized Controlled Trials (RCTs)**
