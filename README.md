@@ -1,4 +1,4 @@
-# Energy-Usage-Simulation-for-RCT by Ania Supady:    
+# Energy-Usage-Simulation-for-RCT, by Ania Supady:    
 
 Ania Supady's Google Colab: https://github.com/AniaSupady/Energy-Usage-Simulation-for-RCT/blob/main/Energy_Usage_Simulation_for_RCT.ipynb
 
